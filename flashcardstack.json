@@ -1,0 +1,438 @@
+[
+    {
+        "keyword": "Bulbasaur",
+        "definition": "Grass/Poison"
+    },
+    {
+        "keyword": "Ivysaur",
+        "definition": "Grass/Poison"
+    },
+    {
+        "keyword": "Venusaur",
+        "definition": "Grass/Poison"
+    },
+    {
+        "keyword": "Charmander",
+        "definition": "Fire"
+    },
+    {
+        "keyword": "Charmeleon",
+        "definition": "Fire"
+    },
+    {
+        "keyword": "Charizard",
+        "definition": "Fire/Flying"
+    },
+    {
+        "keyword": "Squirtle",
+        "definition": "Water"
+    },
+    {
+        "keyword": "Wartortle",
+        "definition": "Water"
+    },
+    {
+        "keyword": "Blastoise",
+        "definition": "Water"
+    },
+    {
+        "keyword": "Caterpie",
+        "definition": "Bug"
+    },
+    {
+        "keyword": "Metapod",
+        "definition": "Bug"
+    },
+    {
+        "keyword": "Butterfree",
+        "definition": "Bug/Flying"
+    },
+    {
+        "keyword": "Weedle",
+        "definition": "Bug/Poison"
+    },
+    {
+        "keyword": "Kakuna",
+        "definition": "Bug/Poison"
+    },
+    {
+        "keyword": "Beedrill",
+        "definition": "Bug/Poison"
+    },
+    {
+        "keyword": "Pidgey",
+        "definition": "Normal/Flying"
+    },
+    {
+        "keyword": "Pidgeotto",
+        "definition": "Normal/Flying"
+    },
+    {
+        "keyword": "Pidgeot",
+        "definition": "Normal/Flying"
+    },
+    {
+        "keyword": "Rattata",
+        "definition": "Normal"
+    },
+    {
+        "keyword": "Raticate",
+        "definition": "Normal"
+    },
+    {
+        "keyword": "Spearow",
+        "definition": "Normal/Flying"
+    },
+    {
+        "keyword": "Fearow",
+        "definition": "Normal/Flying"
+    },
+    {
+        "keyword": "Ekans",
+        "definition": "Poison"
+    },
+    {
+        "keyword": "Arbok",
+        "definition": "Poison"
+    },
+    {
+        "keyword": "Psyduck",
+        "definition": "Water"
+    },
+    {
+        "keyword": "Golduck",
+        "definition": "Water"
+    },
+    {
+        "keyword": "Poliwag",
+        "definition": "Water"
+    },
+    {
+        "keyword": "Poliwhirl",
+        "definition": "Water"
+    },
+    {
+        "keyword": "Poliwrath",
+        "definition": "Water/Fighting"
+    },
+    {
+        "keyword": "Tentacool",
+        "definition": "Water/Poison"
+    },
+    {
+        "keyword": "Tentacruel",
+        "definition": "Water/Poison"
+    },
+    {
+        "keyword": "Geodude",
+        "definition": "Rock/Ground"
+    },
+    {
+        "keyword": "Graveler",
+        "definition": "Rock/Ground"
+    },
+    {
+        "keyword": "Golem",
+        "definition": "Rock/Ground"
+    },
+    {
+        "keyword": "Ponyta",
+        "definition": "Fire"
+    },
+    {
+        "keyword": "Rapidash",
+        "definition": "Fire"
+    },
+    {
+        "keyword": "Slowpoke",
+        "definition": "Water/Psychic"
+    },
+    {
+        "keyword": "Slowbro",
+        "definition": "Water/Psychic"
+    },
+    {
+        "keyword": "Magnemite",
+        "definition": "Electric/Steel"
+    },
+    {
+        "keyword": "Magneton",
+        "definition": "Electric/Steel"
+    },
+    {
+        "keyword": "Farfetch'd",
+        "definition": "Normal/Flying"
+    },
+    {
+        "keyword": "Doduo",
+        "definition": "Normal/Flying"
+    },
+    {
+        "keyword": "Dodrio",
+        "definition": "Normal/Flying"
+    },
+    {
+        "keyword": "Seel",
+        "definition": "Water"
+    },
+    {
+        "keyword": "Dewgong",
+        "definition": "Water/Ice"
+    },
+    {
+        "keyword": "Grimer",
+        "definition": "Poison"
+    },
+    {
+        "keyword": "Muk",
+        "definition": "Poison"
+    },
+    {
+        "keyword": "Shellder",
+        "definition": "Water"
+    },
+    {
+        "keyword": "Cloyster",
+        "definition": "Water/Ice"
+    },
+    {
+        "keyword": "Gastly",
+        "definition": "Ghost/Poison"
+    },
+    {
+        "keyword": "Haunter",
+        "definition": "Ghost/Poison"
+    },
+    {
+        "keyword": "Gengar",
+        "definition": "Ghost/Poison"
+    },
+    {
+        "keyword": "Onix",
+        "definition": "Rock/Ground"
+    },
+    {
+        "keyword": "Drowzee",
+        "definition": "Psychic"
+    },
+    {
+        "keyword": "Hypno",
+        "definition": "Psychic"
+    },
+    {
+        "keyword": "Krabby",
+        "definition": "Water"
+    },
+    {
+        "keyword": "Kingler",
+        "definition": "Water"
+    },
+    {
+        "keyword": "Voltorb",
+        "definition": "Electric"
+    },
+    {
+        "keyword": "Electrode",
+        "definition": "Electric"
+    },
+    {
+        "keyword": "Exeggcute",
+        "definition": "Grass/Psychic"
+    },
+    {
+        "keyword": "Exeggutor",
+        "definition": "Grass/Psychic"
+    },
+    {
+        "keyword": "Cubone",
+        "definition": "Ground"
+    },
+    {
+        "keyword": "Marowak",
+        "definition": "Ground"
+    },
+    {
+        "keyword": "Hitmonlee",
+        "definition": "Fighting"
+    },
+    {
+        "keyword": "Hitmonchan",
+        "definition": "Fighting"
+    },
+    {
+        "keyword": "Lickitung",
+        "definition": "Normal"
+    },
+    {
+        "keyword": "Koffing",
+        "definition": "Poison"
+    },
+    {
+        "keyword": "Weezing",
+        "definition": "Poison"
+    },
+    {
+        "keyword": "Rhyhorn",
+        "definition": "Ground/Rock"
+    },
+    {
+        "keyword": "Rhydon",
+        "definition": "Ground/Rock"
+    },
+    {
+        "keyword": "Chansey",
+        "definition": "Normal"
+    },
+    {
+        "keyword": "Tangela",
+        "definition": "Grass"
+    },
+    {
+        "keyword": "Kangaskhan",
+        "definition": "Normal"
+    },
+    {
+        "keyword": "Horsea",
+        "definition": "Water"
+    },
+    {
+        "keyword": "Seadra",
+        "definition": "Water"
+    },
+    {
+        "keyword": "Goldeen",
+        "definition": "Water"
+    },
+    {
+        "keyword": "Seaking",
+        "definition": "Water"
+    },
+    {
+        "keyword": "Staryu",
+        "definition": "Water"
+    },
+    {
+        "keyword": "Starmie",
+        "definition": "Water/Psychic"
+    },
+    {
+        "keyword": "Mr. Mime",
+        "definition": "Psychic/Fairy"
+    },
+    {
+        "keyword": "Scyther",
+        "definition": "Bug/Flying"
+    },
+    {
+        "keyword": "Jynx",
+        "definition": "Ice/Psychic"
+    },
+    {
+        "keyword": "Electabuzz",
+        "definition": "Electric"
+    },
+    {
+        "keyword": "Magmar",
+        "definition": "Fire"
+    },
+    {
+        "keyword": "Pinsir",
+        "definition": "Bug"
+    },
+    {
+        "keyword": "Tauros",
+        "definition": "Normal"
+    },
+    {
+        "keyword": "Magikarp",
+        "definition": "Water"
+    },
+    {
+        "keyword": "Gyarados",
+        "definition": "Water/Flying"
+    },
+    {
+        "keyword": "Lapras",
+        "definition": "Water/Ice"
+    },
+    {
+        "keyword": "Ditto",
+        "definition": "Normal"
+    },
+    {
+        "keyword": "Eevee",
+        "definition": "Normal"
+    },
+    {
+        "keyword": "Vaporeon",
+        "definition": "Water"
+    },
+    {
+        "keyword": "Jolteon",
+        "definition": "Electric"
+    },
+    {
+        "keyword": "Flareon",
+        "definition": "Fire"
+    },
+    {
+        "keyword": "Porygon",
+        "definition": "Normal"
+    },
+    {
+        "keyword": "Omanyte",
+        "definition": "Rock/Water"
+    },
+    {
+        "keyword": "Omastar",
+        "definition": "Rock/Water"
+    },
+    {
+        "keyword": "Kabuto",
+        "definition": "Rock/Water"
+    },
+    {
+        "keyword": "Kabutops",
+        "definition": "Rock/Water"
+    },
+    {
+        "keyword": "Aerodactyl",
+        "definition": "Rock/Flying"
+    },
+    {
+        "keyword": "Snorlax",
+        "definition": "Normal"
+    },
+    {
+        "keyword": "Articuno",
+        "definition": "Ice/Flying"
+    },
+    {
+        "keyword": "Zapdos",
+        "definition": "Electric/Flying"
+    },
+    {
+        "keyword": "Moltres",
+        "definition": "Fire/Flying"
+    },
+    {
+        "keyword": "Dratini",
+        "definition": "Dragon"
+    },
+    {
+        "keyword": "Dragonair",
+        "definition": "Dragon"
+    },
+    {
+        "keyword": "Dragonite",
+        "definition": "Dragon/Flying"
+    },
+    {
+        "keyword": "Mewtwo",
+        "definition": "Psychic"
+    },
+    {
+        "keyword": "Mew",
+        "definition": "Psychic"
+    }
+]

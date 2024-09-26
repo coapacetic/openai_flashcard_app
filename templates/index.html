@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <title>Flashcard App</title>
+</head>
+<body>
+    <h1>Flashcard Generator</h1>
+    <form method="POST">
+        <input type="text" name="user_input" placeholder="Enter words..." required>
+        <button type="submit">Generate Flashcards</button>
+    </form>
+
+    {% if flashcards %}
+    <div id="flashcard">
+        <h2 id="keyword">{{ flashcards[0].keyword }}</h2>
+        <p id="definition" style="display:none;">{{ flashcards[0].definition }}</p>
+        <button id="reveal">Reveal Back</button>
+        <button id="next">Next Card</button>
+    </div>
+
+    <script>
+        let currentCard = 0;
+        const flashcards = {{ flashcards | tojson }};
+        
+        document.getElementById('reveal').onclick = function() {
+            document.getElementById('definition').style.display = 'block';
+        };
+
+        document.getElementById('next').onclick = function() {
+            currentCard++;
+            if (currentCard < flashcards.length) {
+                document.getElementById('keyword').innerText = flashcards[currentCard].keyword;
+                document.getElementById('definition').innerText = flashcards[currentCard].definition;
+                document.getElementById('definition').style.display = 'none';
+            } else {
+                alert('No more flashcards!');
+            }
+        };
+    </script>
+    {% endif %}
+</body>
+</html>
